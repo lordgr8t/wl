@@ -1303,5 +1303,3 @@ vpn.maximkatz.com
 #other
 luckyvpn.io
 ggsel.io
-yandex.ru
-2ip.io
