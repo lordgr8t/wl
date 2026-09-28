@@ -341,28 +341,34 @@ www.dzcdn.net
 zen.deezer.com
 
 # Discord
+discord.com
+gateway.discord.gg
+cdn.discordapp.com
 discordapp.com
 discordapp.net
-discord.com
 discord.gg
+media.discordapp.net
+images-ext-1.discordapp.net
+discord.app
+discord.media
+discordcdn.com
+discord.dev
+discord.new
+discord.gift
+discordstatus.com
 dis.gd
 discord.co
+discord-activities.com
 discord.design
-discord.dev
-discord.gift
 discord.gifts
-discord.media
-discord.new
 discord.store
 discord.tools
+discordactivities.com
+discordapp.io
 discordmerch.com
 discordpartygames.com
-discord-activities.com
-discordactivities.com
 discordsays.com
-discord-attachments-uploads-prd.storage.googleapis.com
-gateway.discord.gg
-media.discordapp.net
+updates.discord.com
 
 # Dailymotion
 dailymotion.com
